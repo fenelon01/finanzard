@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">finanzard</string>
+    <string-array name="categories">
+        <item>Hogar</item>
+        <item>Alimentación</item>
+        <item>Pasaje y Combustible</item>
+        <item>Deudas</item>
+        <item>Ocios</item>
+    </string-array>
+</resources>
